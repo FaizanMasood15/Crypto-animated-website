@@ -286,7 +286,7 @@ export default function App() {
         {/* Attractive Features Section */}
         <section className="container mx-auto px-18 py-20 text-center">
             <h2 className="text-4xl font-bold text-white">Attractive Features</h2>
-            <p className="text-gray-400 mt-4 mb-12">Windafull makes playing the UK's best raffles easy and fun.</p>
+            <p className="text-gray-400 mt-4 mb-12">Windafull makes playing the UK&apos;s best raffles easy and fun.</p>
             <div className="grid md:grid-cols-3 gap-8 text-left">
                 <FeatureCard icon ="🏆" title="Weekly Trading Contest" text="Eu tellus quam id sed ultrices. Integer nunc lectus nisi, erat et ornare risus." />
                 <FeatureCard icon="📄" title="Less Commission On Trade" text="Eu tellus quam id sed ultrices. Integer nunc lectus nisi, erat et ornare risus." />
